@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "candies",
+
+    "price": 100,
+
+    "imgUrl": "/image/candies.jpg",
+
+    "quantity": 2
+  },
+
+  {
+    "id": 2,
+    "name": "Jelly candy",
+
+    "price": 50,
+
+    "imgUrl": "/image/Jelly candy.jpg",
+
+    "quantity": 3
+  },
+
+  {
+    "id": 3,
+    "name": "cup-cakes",
+
+    "price": 70,
+
+    "imgUrl": "/image/cup-cakes.jpg",
+
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "chocolates",
+
+    "price": 70,
+
+    "imgUrl": "/image/chocolates.jpg",
+
+    "quantity": 1
+  },
+  {
+    "id":5,
+    "name": "bananas",
+
+    "price": 70,
+
+    "imgUrl": "/image/bananas.jpg",
+
+    "quantity": 1
+  },
+  {
+    "id":6,
+    "name": "cake-pops",
+
+    "price": 70,
+
+    "imgUrl": "/image/cake-pops.jpg",
+
+    "quantity": 1
+  }
+
+
+]
